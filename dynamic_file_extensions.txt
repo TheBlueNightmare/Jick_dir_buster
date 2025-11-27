@@ -1,0 +1,14 @@
+.txt
+.doc
+.odt
+.rtf
+.pdf
+.xls
+.xlsm
+.xlsx
+.xml
+.html
+.sqlite
+.sqlite3
+.db
+.db3

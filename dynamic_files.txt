@@ -1,0 +1,13 @@
+confidential
+config
+configure
+configuration
+login
+logins
+secret
+secrets
+settings
+passwd
+passwds
+password
+passwords

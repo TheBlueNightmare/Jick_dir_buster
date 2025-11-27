@@ -26,11 +26,14 @@ every file in the filelist with all the different file extensions listed in the 
 python dir_buster.py
 ``
 
+
 By default, this will read from a targets.txt file in the same directory. To use a different input file, use:
+
 
 ``
 python dir_buster.py --target-file target_list.txt
 ``
+
 Remember that the target list file is the list of crawled URLs (presumably output by Jick), and it will look something like this:
 ``
 GET https://www.example.com/

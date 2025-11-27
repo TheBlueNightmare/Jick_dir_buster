@@ -1,8 +1,7 @@
-##JICK_DIR_BUSTER
------------------
+## JICK_DIR_BUSTER
+
 
 ## General information
----------------------
 
 This is a command-line script written in Python that brute-forces website directory and file paths.
 This is to find website directories or file paths that are accessible, which shouldn't be.
@@ -22,7 +21,6 @@ in all capitalized letters, all lowercase letters, the first letter capitalized 
 every file in the filelist with all the different file extensions listed in the file extensions list, e.t.c.
 
 ## Usage
---------
 
 ``
 python dir_buster.py

@@ -37,13 +37,11 @@ python dir_buster.py --target-file target_list.txt
 Remember that the target list file is the list of crawled URLs (presumably output by Jick), and it will look something like this:
 
 ``
-
 GET https://www.example.com/
 
 GET https://www.example.com/nowhere/
 
 POST https://www.example.com/nowhere/again/
-
 ``
 
 So if you want to use another tool like Jick, just make sure it follows that same format. Although the "GET" and "POST" at the beginning of

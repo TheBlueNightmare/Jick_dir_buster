@@ -38,7 +38,9 @@ Remember that the target list file is the list of crawled URLs (presumably outpu
 
 ``
 GET https://www.example.com/
+
 GET https://www.example.com/nowhere/
+
 POST https://www.example.com/nowhere/again/
 ``
 

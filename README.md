@@ -119,6 +119,5 @@ As some examples. Then, any visited URL that matches the assigned status code, x
 
 
 ## Credit
---------
 
 This project was made by VyperLabs at [https://www.securityandpentesting.org/](https://www.securityandpentesting.org/)

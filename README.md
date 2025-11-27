@@ -35,6 +35,7 @@ python dir_buster.py --target-file target_list.txt
 ``
 
 Remember that the target list file is the list of crawled URLs (presumably output by Jick), and it will look something like this:
+
 ``
 GET https://www.example.com/
 GET https://www.example.com/nowhere/
@@ -47,25 +48,34 @@ the lines in the file don't need to be there. Just make sure that the rest of th
 By default, this directory buster will read from local filenames that are hardcoded into it. However, you can override these filenames to make
 it read from different files, if you want. E.g
 
+
 ``
 python dir_buster.py --dynamic-directories new_dynamic_directories_file.txt
 ``
 
+
 or
+
 
 ``
 python dir_buster.py --dynamic-files new_dynamic_files_file.txt
 ``
 
+
 or
+
+
 ``
 python dir_buster.py --dynamic-file-extensions new_dynamic_file_extensions.txt
 ``
 
 or
+
+
 ``
 python dir_buster.py --static-files new_static_files.txt
 ``
+
 
 Just look at what each local file does, and it is pretty easy to figure out what the different files are used for.
 
